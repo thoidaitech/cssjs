@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>KO CHO COPY";
+    var pagelink = "<br/><br/>ĐỪNG NGHĨ TỚI CHUYỆN ĐÓ ^^";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
